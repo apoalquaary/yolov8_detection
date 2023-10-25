@@ -1,0 +1,5 @@
+train: C:\Users\alqua\Desktop\DESK\videos\detections\detect_train\dataset\train
+val: C:\Users\alqua\Desktop\DESK\videos\detections\detect_train\dataset\valid
+
+nc: 2
+names: ['heritage', 'kudri']
